@@ -11,4 +11,4 @@
 * **格式转换** - 通过 MoviePy 将 MP4 转换为 GIF 以便展示。
 
 ---
-*由 Manim 渲染，MoviePy 转换。*
+*由 Manim 渲染，MoviePy 转换，加油加油。*
