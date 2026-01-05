@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/hello-github/media/videos/start/480p15/partial_movie_files/MyFirstAnimation/1584795214_3591240408_223132457.mp4'
+file 'file:C:/hello-github/media/videos/start/480p15/partial_movie_files/MyFirstAnimation/4072820271_4217992463_3692824735.mp4'
+file 'file:C:/hello-github/media/videos/start/480p15/partial_movie_files/MyFirstAnimation/4072820271_3383111682_2119870461.mp4'
+file 'file:C:/hello-github/media/videos/start/480p15/partial_movie_files/MyFirstAnimation/4072820271_3675200789_1456438677.mp4'
+file 'file:C:/hello-github/media/videos/start/480p15/partial_movie_files/MyFirstAnimation/4072820271_2844360058_1493167403.mp4'
